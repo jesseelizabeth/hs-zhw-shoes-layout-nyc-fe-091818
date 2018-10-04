@@ -138,6 +138,10 @@ iframe {
   display: inline-block;
 }
 
+.banner {
+  width: 300%;
+}
+
 /********** Header **********/
 
 /********** Nav Bar **********/
