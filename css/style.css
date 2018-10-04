@@ -134,6 +134,10 @@ iframe {
   height: 415px;
 }
 
+.container {
+  display: inline-block;
+}
+
 /********** Header **********/
 
 /********** Nav Bar **********/
